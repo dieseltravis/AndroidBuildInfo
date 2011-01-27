@@ -10,3 +10,12 @@ https://github.com/dieseltravis/AndroidBuildInfo/raw/master/bin/AndroidBuildInfo
 
 Emulator screenshot:
 http://i.imgur.com/CnWGQ.png
+
+TODO:
+* Bluetooth info: http://developer.android.com/reference/android/bluetooth/BluetoothAdapter.html
+* GPS: http://developer.android.com/reference/android/location/LocationManager.html 
+   http://developer.android.com/reference/android/location/LocationProvider.html
+* Network: http://developer.android.com/reference/android/net/ConnectivityManager.html
+* Wifi: http://developer.android.com/reference/android/net/wifi/WifiInfo.html
+* Browser User Agent: http://developer.android.com/reference/android/webkit/WebSettings.html#getUserAgentString%28%29
+* anything else?
