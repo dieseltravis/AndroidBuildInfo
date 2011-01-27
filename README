@@ -1,0 +1,10 @@
+http://android.stackexchange.com/questions/5320/is-there-an-app-that-will-list-my-phones-info-in-an-easily-copy-paste-able-forma
+
+Simple app that loads phone info into a text box.
+
+Source: 
+https://github.com/dieseltravis/AndroidBuildInfo/blob/master/src/com/example/buildinfo/AndroidBuildInfo.java
+
+APK: 
+https://github.com/dieseltravis/AndroidBuildInfo/raw/master/bin/AndroidBuildInfo.apk
+
